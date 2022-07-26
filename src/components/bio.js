@@ -47,7 +47,7 @@ const Bio = () => {
           안녕하세요 한세고 브룩입니다. <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://www.youtube.com/watch?v=JlxPtY5asZM`}>
-            제가 "이레"라는 거대 생물과 싸우는 장면 입니다.
+            제가"이레"라는 거대 생물과 싸우는 장면 입니다.
           </a>
         </p>
       )}
